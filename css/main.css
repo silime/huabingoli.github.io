@@ -11,7 +11,7 @@ header,
   overflow-wrap: break-word;
 }
 body {
-  background-color: #eee;
+  background-color: #e3dede;
   color: #3c4858;
 }
 body a {
@@ -48,7 +48,7 @@ img[srcset] {
 #board {
   position: relative;
   margin-top: -2rem;
-  background-color: #fff;
+  background-color: #e3dede;
   border-radius: 0.5rem;
   z-index: 3;
   -webkit-box-shadow: 0 12px 15px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
@@ -186,7 +186,7 @@ post-content strong {
 }
 #scroll-top-button {
   position: fixed;
-  background: #fff;
+  background: #e3dede;
   border-radius: 4px;
   min-width: 40px;
   min-height: 40px;
@@ -538,10 +538,10 @@ a.beian-police img {
   color: white;
 }
 .top-nav-collapse {
-  background-color: #2f4154;
+  background-color: #e3dede;
 }
 .navbar-col-show {
-  background-color: #2f4154;
+  background-color: #e3dede;
 }
 @media (max-width: 767px) {
   .navbar {
