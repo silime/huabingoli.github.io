@@ -4,13 +4,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2020/04/26/hello-world/"/>
-    <url>/2020/04/26/hello-world/</url>
+    <title>那我的第一篇Hexo博客开始写咯</title>
+    <link href="/2020/05/02/%E9%82%A3%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E6%96%87%E5%BC%80%E5%A7%8B%E5%86%99%E5%92%AF/"/>
+    <url>/2020/05/02/%E9%82%A3%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E6%96%87%E5%BC%80%E5%A7%8B%E5%86%99%E5%92%AF/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2020/05/02/5TlUvBoGkOyYqJL.jpg" srcset="/img/loading.gif" alt="38e6068f56731913d79af8d2c95888fc_720w.jpg"></p><h2 id="💭为什么我要开始写这个博客"><a href="#💭为什么我要开始写这个博客" class="headerlink" title="💭为什么我要开始写这个博客?"></a>💭为什么我要开始写这个博客?</h2><p>作为一个开发人员,现在才开始有兴趣或者是有时间去折腾这套  <em>Hexo(博客)+Fluid(主题)+Github Page(部署,针对境外)+Coding(部署,针对境内)</em> 算是比较晚了,但不得不说,无论什么时候,开始去做一件事始终都会带来一种”不顾过往不看未来关注现在”的感觉,应该算是映照到首页打字机的内容</p><blockquote><p>去触碰立于你面前的东西,这样一来就会明白此刻就是现实,就能理解什么才是必须要做的事情.</p></blockquote><hr><h2 id="✍🏻博客的写作内容是"><a href="#✍🏻博客的写作内容是" class="headerlink" title="✍🏻博客的写作内容是?"></a>✍🏻博客的写作内容是?</h2><p>在”关于我”的页面大致说了两点,</p><blockquote><p>非正经向的生活碎碎念,还有略微羞耻的个人观点<br>一本正经的聊技术</p></blockquote><p>一般开发人员喜欢在博客上分享技术学习和总结,我或许也会,但就网上这么多相似博客而言,我尽量避免重复造轮子的行为.</p><p>更多的,想写一些生活随笔,一点奇思妙想和脑洞,对玩的一款游戏的评价看法,做得比较成功的一款菜式——它的菜谱分享,班门弄斧的整一些手账和ipad绘画的同人图分享,抑或是此时此刻我不成熟的想法——其实就是我的不吐不快.</p><p><strong>(以上的内容有些是想做但还未曾做过的,纯粹是给自己一个方向)</strong></p><hr><h2 id="❤️个人愿景"><a href="#❤️个人愿景" class="headerlink" title="❤️个人愿景"></a>❤️个人愿景</h2><p>成为一个生活家吧…诶,<a href="https://movie.douban.com/subject/10484041//" target="_blank" rel="noopener">横道世之介</a>,你说,对吗?</p>]]></content>
     
     
+    <categories>
+      
+      <category>日常碎碎念</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
     
   </entry>
   
