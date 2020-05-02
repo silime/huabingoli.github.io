@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HuaBingoLi&#39;s Zone</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-02T08:58:18.822Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Li HuaBingo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>那我的第一篇Hexo博客开始写咯</title>
+    <link href="http://yoursite.com/2020/05/02/%E9%82%A3%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E6%96%87%E5%BC%80%E5%A7%8B%E5%86%99%E5%92%AF/"/>
+    <id>http://yoursite.com/2020/05/02/%E9%82%A3%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87Hexo%E5%8D%9A%E6%96%87%E5%BC%80%E5%A7%8B%E5%86%99%E5%92%AF/</id>
+    <published>2020-05-02T07:53:14.000Z</published>
+    <updated>2020-05-02T08:58:18.822Z</updated>
+    
+    <summary type="html">
+    
+      震惊!这篇文章可以走进粤港澳小王子的内心世界?!🔍
+    
+    </summary>
+    
+    
+      <category term="日常碎碎念" scheme="http://yoursite.com/categories/%E6%97%A5%E5%B8%B8%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
