@@ -245,7 +245,7 @@
 
   
     <!-- APlayer 音乐播放器 -->
-    <div id="aplayer"></div>
+    <div id="aplayer" style="position:absolute;left:0;bottom:0;"></div>
     <script defer src="https://cdn.staticfile.org/aplayer/1.10.1/APlayer.min.js" ></script>
 <link  rel="stylesheet" href="https://cdn.staticfile.org/aplayer/1.10.1/APlayer.min.css" />
 <script type="text/javascript">
@@ -255,7 +255,7 @@
 
     new APlayer({
       container: document.getElementById('aplayer'),
-      fixed: true,
+      mini: true,
       autoplay: 'false' === 'true',
       loop: 'all',
       order: 'random',
