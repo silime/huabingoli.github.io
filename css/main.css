@@ -11,7 +11,7 @@ header,
   overflow-wrap: break-word;
 }
 body {
-  background-color: #e3dede;
+  background-color: #D9D4CF;
   color: #3c4858;
 }
 body a {
@@ -48,7 +48,7 @@ img[srcset] {
 #board {
   position: relative;
   margin-top: -2rem;
-  background-color: #e3dede;
+  background-color: #F0E5DE;
   border-radius: 0.5rem;
   z-index: 3;
   -webkit-box-shadow: 0 12px 15px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
@@ -186,7 +186,7 @@ post-content strong {
 }
 #scroll-top-button {
   position: fixed;
-  background: #e3dede;
+  background: #F0E5DE;
   border-radius: 4px;
   min-width: 40px;
   min-height: 40px;
@@ -489,12 +489,12 @@ a.beian-police img {
 .navbar {
   background-color: transparent;
   font-size: 0.875rem;
-  color: white;
+  color: #7C7877;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
   -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 .navbar a {
-  color: white;
+  color: #7C7877;
 }
 .navbar a:hover {
   background-color: rgba(0,0,0,0.1);
@@ -532,16 +532,16 @@ a.beian-police img {
   padding-bottom: 5px;
 }
 .navbar-custom {
-  color: white;
+  color: #7C7877;
 }
 .navbar-custom a {
-  color: white;
+  color: #7C7877;
 }
 .top-nav-collapse {
-  background-color: #e3dede;
+  background-color: #D9D4CF;
 }
 .navbar-col-show {
-  background-color: #e3dede;
+  background-color: #D9D4CF;
 }
 @media (max-width: 767px) {
   .navbar {
@@ -561,7 +561,7 @@ a.beian-police img {
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  color: #1a202c;
+  color: #7C7877;
   font-weight: bold;
   margin-bottom: 0.75em;
   margin-top: 2em;
