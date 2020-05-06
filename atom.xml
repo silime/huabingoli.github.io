@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-02T08:58:18.822Z</updated>
+  <updated>2020-05-06T07:19:23.013Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两部作品中的ED形式和当时的我</title>
+    <link href="http://yoursite.com/2020/05/06/%E4%B8%A4%E9%83%A8%E4%BD%9C%E5%93%81%E4%B8%AD%E7%9A%84ED%E5%BD%A2%E5%BC%8F%E5%92%8C%E5%BD%93%E6%97%B6%E7%9A%84%E6%88%91/"/>
+    <id>http://yoursite.com/2020/05/06/%E4%B8%A4%E9%83%A8%E4%BD%9C%E5%93%81%E4%B8%AD%E7%9A%84ED%E5%BD%A2%E5%BC%8F%E5%92%8C%E5%BD%93%E6%97%B6%E7%9A%84%E6%88%91/</id>
+    <published>2020-05-06T05:48:13.000Z</published>
+    <updated>2020-05-06T07:19:23.013Z</updated>
+    
+    <summary type="html">
+    
+      对于这篇流水账我有信心浪费你1分钟的时间🤣
+    
+    </summary>
+    
+    
+      <category term="日常碎碎念" scheme="http://yoursite.com/categories/%E6%97%A5%E5%B8%B8%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>那我的第一篇Hexo博客开始写咯</title>
