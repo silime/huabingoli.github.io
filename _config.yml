@@ -102,7 +102,7 @@ deploy:
   repo: 
     github: git@github.com:huabingoli/huabingoli.github.io.git
     coding: git@e.coding.net:bingohub/huabingoli.coding.me.git
-  branch: master
+  branch: hexo
 
 #Feed Atom
 feed:
